@@ -1,19 +1,7 @@
-# oschvr's npm card
+# Shay Punters's npm card
 
 Open your terminal and hit 👇
 
 ```
-npx oschvr
+npx shaypunter
 ```
-
-## Create your own
-
-Clone the repo and update your data at `index.js`
-
-```
-git clone https://github.com/oschvr/card
-```
-
-## See a detailed how to
-
-(oschvr.com/posts/create-your-npm-card)[https://oschvr.com/posts/create-your-npm-card/]

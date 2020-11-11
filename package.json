@@ -1,15 +1,15 @@
 {
-  "name": "oschvr",
+  "name": "shaypunter",
   "version": "0.1.0",
-  "description": "oschvr.com",
+  "description": "shaypunter.co.uk",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "oschvr"
+    "shay punter"
   ],
-  "author": "Oscar Chavez <oschvr@protonmail.com>",
+  "author": "Shay Punter <shay@shaypunter.co.uk>",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.0"
